@@ -1,0 +1,3 @@
+django-admin startproject calculator_project
+cd calculator_project
+django-admin startapp calculator
